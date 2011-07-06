@@ -1,0 +1,7 @@
+#<a title>
+A-->B: <label1> 
+B-->C: <label2>
+C-->D: <label3>
+D-->C: <label4>
+C-->B: <label5>
+B-->A: <label6>
